@@ -42,5 +42,5 @@
 
 # 📬 Kontakt / rozwój
 
-Projekt rozwijany pod środowisko tuningowe 🚗💨
+Projekt rozwijany pod środowisko tuningowe 🚗💨  
 Jeśli masz pomysł na funkcję — śmiało dodaj issue.
