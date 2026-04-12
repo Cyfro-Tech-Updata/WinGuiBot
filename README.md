@@ -18,7 +18,7 @@
 > - .csv   
 > - .asap2   
 > - .dtr
->#
+> #
 > ✔ Kompatybilność m.in. z ECM Titanium 1.61 (.dtr i .db)  
 > ✔ Praca na projektach WinOLS  4.7 -> 5.8  
 > ✔ Automatyczne przetwarzanie danych map  
