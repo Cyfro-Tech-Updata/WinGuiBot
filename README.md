@@ -13,10 +13,10 @@
 # Obsługiwane formaty: .ols .xdf .xml .a2l .csv .asap2 .dtr
 
 > ✔ Kompatybilność m.in. z ECM Titanium 1.61  
-> ✔ Praca na projektach WinOLS  4.7 -> 5.8
-> ✔ Automatyczne przetwarzanie danych map
-> ✔ Możliwość łatwej migracji między środowiskami
-> ✔ Możliwość odzysku danych przy uszkodzonych projektach
+> ✔ Praca na projektach WinOLS  4.7 -> 5.8  
+> ✔ Automatyczne przetwarzanie danych map  
+> ✔ Możliwość łatwej migracji między środowiskami  
+> ✔ Możliwość odzysku danych przy uszkodzonych projektach  
 
 ---
 
