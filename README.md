@@ -11,7 +11,6 @@
 **WinGuiBot** to narzędzie dla tunerów umożliwiające parsowanie i konwersję plików tuningowych między różnymi formatami.
 
 # Obsługiwane formaty: 
----
 > - .ols   
 > - .xdf   
 > - .xml   
@@ -19,14 +18,11 @@
 > - .csv   
 > - .asap2   
 > - .dtr
----
 > ✔ Kompatybilność m.in. z ECM Titanium 1.61 (.dtr i .db)  
 > ✔ Praca na projektach WinOLS  4.7 -> 5.8  
 > ✔ Automatyczne przetwarzanie danych map  
 > ✔ Możliwość łatwej migracji między środowiskami  
 > ✔ Możliwość odzysku danych przy uszkodzonych projektach  
-
----
 
 # 🔄 Strefa aktualizacji (Update Zone)
 
