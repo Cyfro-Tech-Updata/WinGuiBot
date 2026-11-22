@@ -1,0 +1,29 @@
+# WinGuiBot — language file (English). UTF-8. KEY=value. \n = newline. {0}/{1} = substitutions.
+# This file OVERRIDES the texts built into the exe. The updater syncs it from the repo
+# via a signed manifest (manifest.json). No file = the built-in texts are used.
+STATUS_IDLE=Idle
+STATUS_BUSY=Processing...
+STATUS_SUCCESS=Success
+STATUS_ERROR=Error
+LOG_READING=Reading: {0}
+LOG_FILE_SIZE=File size: {0} bytes
+LOG_ROM_HEADER=\nROM variants ({0}x {1} MB):
+LOG_NO_ROM=No ROM variants or error: {0}
+LOG_MAPS=\nMaps:    {0}
+LOG_FOLDERS=Folders: {0}
+LOG_READY_EXTRACT=\nReady to extract.
+LOG_DONE=Done.
+LOG_SECTION_CSV=\n--- Extract .csv ---
+LOG_SECTION_BIN=\n--- Extract .bin ---
+LOG_SAVED_MAPS=Saved {0} maps to:
+LOG_ERROR=ERROR: {0}
+NO_FOLDER=(no folder)
+MAP_INFO=  Size: {0}  │  Factor: {1}  │  Type: {2}{3}
+MAP_INFO_UNIT=  │  Unit: {0}
+LIC_ONLY_ONE_MAP=Without an active license, only one map can be viewed.
+LIC_REQUIRED=License required to view additional maps.
+LIC_WARNING=WARNING: License inactive – map viewing limited to 1.
+LIC_CREDITS_OUT=No credits – extraction unavailable.
+LOG_EXTRACT_ALL=\n--- Extract CSV + BIN ---
+CREDITS_INFO=Credits: {0}
+CREDITS_UNLIMITED=Credits: ∞
