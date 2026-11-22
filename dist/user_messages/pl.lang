@@ -1,0 +1,29 @@
+# WinGuiBot — plik językowy (polski). UTF-8. KEY=wartość. \n = nowa linia. {0}/{1} = podstawienia.
+# Ten plik NADPISUJE teksty wbudowane w exe. Aktualizator synchronizuje go z repo
+# przez podpisany manifest (manifest.json). Brak pliku = używane są teksty z kodu.
+STATUS_IDLE=Bezczynny
+STATUS_BUSY=Przetwarzanie...
+STATUS_SUCCESS=Sukces
+STATUS_ERROR=Błąd
+LOG_READING=Wczytuję: {0}
+LOG_FILE_SIZE=Rozmiar pliku: {0} bajtów
+LOG_ROM_HEADER=\nWarianty ROM ({0}x {1} MB):
+LOG_NO_ROM=Brak wariantów ROM lub błąd: {0}
+LOG_MAPS=\nMapy:    {0}
+LOG_FOLDERS=Foldery: {0}
+LOG_READY_EXTRACT=\nGotowe do wypakowania.
+LOG_DONE=Gotowe.
+LOG_SECTION_CSV=\n--- Wypakuj .csv ---
+LOG_SECTION_BIN=\n--- Wypakuj .bin ---
+LOG_SAVED_MAPS=Zapisano {0} map do:
+LOG_ERROR=BŁĄD: {0}
+NO_FOLDER=(brak folderu)
+MAP_INFO=  Rozmiar: {0}  │  Mnożnik: {1}  │  Typ: {2}{3}
+MAP_INFO_UNIT=  │  Jednostka: {0}
+LIC_ONLY_ONE_MAP=Bez aktywnej licencji można podejrzeć tylko jedną mapę.
+LIC_REQUIRED=Licencja wymagana do przeglądania kolejnych map.
+LIC_WARNING=UWAGA: Licencja nieaktywna – przeglądanie ograniczone do 1 mapy.
+LIC_CREDITS_OUT=Brak kredytów – wypakowanie niedostępne.
+LOG_EXTRACT_ALL=\n--- Wypakuj CSV + BIN ---
+CREDITS_INFO=Kredyty: {0}
+CREDITS_UNLIMITED=Kredyty: ∞
