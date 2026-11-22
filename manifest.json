@@ -1,0 +1,22 @@
+{
+  "version": "v1.2.0p",
+  "files": [
+    {
+      "path": "user_messages/en.lang",
+      "sha256": "9c9510772ea456ebb8ed8eabc97923b812cfa0c82343d3d5277b8226b4bb8f03",
+      "size": 1193
+    },
+    {
+      "path": "user_messages/pl-PL.lang",
+      "sha256": "f3041c617914820073df3e2d7cfab068f584522d271549db2506785badbd478b",
+      "size": 1274
+    },
+    {
+      "path": "user_messages/pl.lang",
+      "sha256": "f3041c617914820073df3e2d7cfab068f584522d271549db2506785badbd478b",
+      "size": 1274
+    }
+  ],
+  "files_digest": "18a597c91dcc71f8f75a642ce36936373b48704bdd89c53ec4bd7963308ce3e1",
+  "sig": "lGe1kyoI5gnij+zbVunVOr1IZw44kau0p9Y2SiLDGxB2aloniT9aw+aIT6hzz2oYUQeiAbHavUSr4yAdrbXCPA=="
+}
