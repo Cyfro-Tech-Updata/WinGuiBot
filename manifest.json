@@ -7,16 +7,11 @@
       "size": 1193
     },
     {
-      "path": "user_messages/pl-PL.lang",
-      "sha256": "f3041c617914820073df3e2d7cfab068f584522d271549db2506785badbd478b",
-      "size": 1274
-    },
-    {
       "path": "user_messages/pl.lang",
       "sha256": "f3041c617914820073df3e2d7cfab068f584522d271549db2506785badbd478b",
       "size": 1274
     }
   ],
-  "files_digest": "18a597c91dcc71f8f75a642ce36936373b48704bdd89c53ec4bd7963308ce3e1",
-  "sig": "AKNIxySNaaOtzdOdbpMczbzwrtqZP9KKSdYAE0KSSVMwE1SgPSuVTcTDE02Jnmm2pC6cVdn4jiKCDCt40SApvQ=="
+  "files_digest": "abc6cb464f4ace2bb3f08f8ea14e1268225fc954e87469b38d41facd78e1b864",
+  "sig": "qrVfBmmJjtIk5UfBLCSiRssWr1j86uiHMbM0oYHB3JDHzrdoJaHt/iNKpd624dt80Ch0nxL8adORfJ5tmkLArA=="
 }
